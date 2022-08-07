@@ -1,5 +1,5 @@
 const TelegramApi = require('node-telegram-bot-api')
-const token = '5313371873:AAHJoPS6PQrx1zRn-dyCtlw1-k923GeaHtA'
+const token = 'TOKEN'
 const bot = new TelegramApi(token, {polling: true})
 
 let PC = {
@@ -153,8 +153,6 @@ const start = () => {
                 }
                 // setTimeout( bot.sendMessage(chatId, `Введите номер который вы хотели бы заказать:`), 200000000)
                 // bot.sendMessage(chatId, `Введите номер который вы хотели бы заказать:`)
-                
-
 
                 // bot.on('text', function(msg)
                 // {
@@ -165,10 +163,6 @@ const start = () => {
                 //         bot.sendMessage(ChatId, 'AAAAAAAAAAAAAAAAAAAa');
                 //     }
                 // });
-
-
-
-
 
 
                 break;

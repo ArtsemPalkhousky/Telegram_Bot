@@ -1,4 +1,4 @@
-# Simple TelegramBot on JS for Gaming Club
+# Simple TelegramBot for Gaming Club on JS
 
 <h3 align="center">@Running on heroku server <img src="https://user-images.githubusercontent.com/79112562/183313999-dae1d131-abd0-4390-a81a-8ce878bd0fdc.png" width="15" height="15"></h3>
 
